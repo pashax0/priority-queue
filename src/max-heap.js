@@ -7,7 +7,7 @@ class MaxHeap {
 	}
 
 	push(data, priority) {
-		
+		//this.push(data);
 	}
 
 	pop() {
@@ -23,7 +23,7 @@ class MaxHeap {
 	}
 
 	size() {
-		
+		//return 
 	}
 
 	isEmpty() {
